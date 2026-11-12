@@ -1,26 +1,23 @@
 # Pavel Tzvetkov
 
-Electrical engineering student at the **Technical University of Munich** (B.Sc. EEIT). I like working where hardware meets software: analog front ends, PCBs, firmware and the tools around them.
+Electrical engineering student at TUM (B.Sc. EEIT). Looking for a working student position in Munich from January 2027.
 
-**Currently looking for a working student position (up to 20 h/week) in Munich from January 2027.**
-
-## What I'm working on
-
-- **[MOVE Prosthetics](https://moveprosthetics.com)**: co-founder of a TUM student initiative that builds open-source, low-cost myoelectric prosthetic hands. I lead the STM32 firmware of the CCA0 hand (EMG filtering, envelope detection, grip-intent detection, motor control) and co-developed its ADS1299-based EMG board.
-- **Advisor Robotics Program by Mouser Electronics**: electronics lead of a student team that built a robot arm (stepper motors, Raspberry Pi Pico, power supply). 2nd place.
-
-## Selected repositories
+## Projects
 
 | Project | What | Tech |
 |---|---|---|
-| [pcb-CCA0pre1](https://github.com/PavelTzv/pcb-CCA0pre1) | EMG acquisition board schematic for the CCA0 prosthetic hand | KiCad, TI ADS1299 |
-| [Veranstaltungsanzeige](https://github.com/PavelTzv/Veranstaltungsanzeige) | Kiosk app showing an institute's daily schedule, in daily use | Electron, JavaScript, GitHub Actions |
+| CCA0 firmware ([MOVE Prosthetics](https://moveprosthetics.com)) | Firmware for our myoelectric prosthetic hand: EMG filtering, envelope detection, grip detection, motor control. I lead the firmware in MOVE's electronics team. | C, STM32 |
+| [pcb-CCA0pre1](https://github.com/PavelTzv/pcb-CCA0pre1) | Schematic of the EMG amplifier board for CCA0 | KiCad, TI ADS1299 |
+| [moveprosthetics.com](https://moveprosthetics.com) | Website of MOVE Prosthetics, the TUM student initiative I co-founded | Next.js, TypeScript |
+| MOVE member management | Internal web app for members, parts and finances, with role-based access control (private repo) | Next.js, PostgreSQL, Docker |
+| Mouser robotics program | Electronics of a team robot: power supply, wiring, stepper motor control. 2nd place. | Raspberry Pi Pico, MicroPython |
+| [Veranstaltungsanzeige](https://github.com/PavelTzv/Veranstaltungsanzeige) | Kiosk app that shows the daily schedule at University Medicine Greifswald, in daily use | Electron, JavaScript, GitHub Actions |
+| Water leak alarm | Small alarm circuit and PCB (private repo) | KiCad |
+| LED matrix | Shows images on a 64×64 LED matrix, controlled via a self-hosted API | |
 
 ## Skills
 
-**Hardware & EDA:** KiCad · LTspice · MATLAB/Simulink · lab instruments
-**Programming:** C/C++ (STM32) · Python · TypeScript/JavaScript · SQL
-**Tools:** Git · GitHub Actions · Docker
+C/C++ · Python · TypeScript/JavaScript · SQL · KiCad · LTspice · MATLAB/Simulink · Git · Docker
 
 ## Contact
 
