@@ -1,4 +1,4 @@
-# Hi, I'm Pavel
+# Pavel Tzvetkov
 
 Electrical engineering student at the **Technical University of Munich** (B.Sc. EEIT). I like working where hardware meets software: analog front ends, PCBs, firmware and the tools around them.
 
@@ -7,7 +7,7 @@ Electrical engineering student at the **Technical University of Munich** (B.Sc. 
 ## What I'm working on
 
 - **[MOVE Prosthetics](https://moveprosthetics.com)**: co-founder of a TUM student initiative that builds open-source, low-cost myoelectric prosthetic hands. I lead the STM32 firmware of the CCA0 hand (EMG filtering, envelope detection, grip-intent detection, motor control) and co-developed its ADS1299-based EMG board.
-- **Advisor Robotics Program by Mouser Electronics**: electronics lead of a TUM team that built a robot arm (stepper motors, Raspberry Pi Pico, power supply). 2nd place.
+- **Advisor Robotics Program by Mouser Electronics**: electronics lead of a student team that built a robot arm (stepper motors, Raspberry Pi Pico, power supply). 2nd place.
 
 ## Selected repositories
 
