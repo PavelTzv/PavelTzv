@@ -6,7 +6,7 @@ Electrical engineering student at TUM (B.Sc. EEIT). Looking for a working studen
 
 | Project | What | Tech |
 |---|---|---|
-| CCA0 firmware ([MOVE Prosthetics](https://moveprosthetics.com)) | Firmware for our myoelectric prosthetic hand: EMG filtering, envelope detection, grip detection, motor control. I lead the firmware in MOVE's electronics team. | C, STM32 |
+| BCI firmware ([MOVE Prosthetics](https://moveprosthetics.com)) | STM32 firmware for our EEG-based brain-computer interface: ADS1299 acquisition and data streaming, building on the firmware of our CCA0 prosthetic hand (just started) | C, STM32 |
 | [pcb-CCA0pre1](https://github.com/PavelTzv/pcb-CCA0pre1) | Schematic of the EMG amplifier board for CCA0 | KiCad, TI ADS1299 |
 | [moveprosthetics.com](https://moveprosthetics.com) | Website of MOVE Prosthetics, the TUM student initiative I co-founded | Next.js, TypeScript |
 | MOVE member management | Internal web app for members, parts and finances, with role-based access control (private repo) | Next.js, PostgreSQL, Docker |
